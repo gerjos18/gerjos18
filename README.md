@@ -1,4 +1,6 @@
-<img src="banner-github.png" alt="Banner de Gerardo Ramírez" width="100%" />
+<p align="center">
+  <img src="banner-github.png" alt="Banner de Gerardo Ramírez" width="100%" />
+</p>
 
 # Hola, soy Gerardo Ramírez 👋
 
