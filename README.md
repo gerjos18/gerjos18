@@ -1,20 +1,17 @@
-# Hola, soy Gera 👋
+<img src="banner-github.png" alt="Banner de Gerardo Ramírez" width="100%" />
 
-Desarrollador en formación enfocado en proyectos web y móviles.  
-Me interesa la tecnología, el emprendimiento y construir soluciones útiles.
+# Hola, soy Gerardo Ramírez 👋
 
-## 🚀 Tecnologías
+Building web and mobile projects with code, creativity, and vision.
+
+## 🚀 About me
+- Web development student
+- Interested in technology and entrepreneurship
+- Currently building academic and personal software projects
+
+## 🛠 Tech Stack
 - HTML
 - CSS
 - Python
 - Flutter
-- GitHub
-
-## 📌 Proyectos destacados
-- Sistema Escolar
-- Flutter Application 1
-- Actividad 3.4 - Utilización de Widgets
-
-## 📫 Contacto
-- LinkedIn: (https://www.linkedin.com/in/gerardo-ramirez-8546b5315/)
-- 
+- Git & GitHub
