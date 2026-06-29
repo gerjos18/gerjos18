@@ -2,16 +2,16 @@
   <img src="Gerardo%20Ramirez.png" alt="Banner de Gerardo Ramírez" width="100%" />
 </p>
 
-# Hola, soy Gerardo Ramírez 👋
+# Hola, soy Gerardo Ramírez 
 
 Building web and mobile projects with code, creativity, and vision.
 
-## 🚀 About me
+## About me
 - Web development student
 - Interested in technology and entrepreneurship
 - Currently building academic and personal software projects
 
-## 🛠 Tech Stack
+## Tech Stack
 - HTML
 - CSS
 - Python
